@@ -13,7 +13,7 @@ In this project, we used restaurants menus gathered via Wolt's API and created a
 
 _Methods used in this AI projects: local search, genetic algorithms._
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 ![image](https://user-images.githubusercontent.com/36603609/208291119-0ad15f9c-fed5-4e6c-b20a-92c59f316ef4.png)
 
@@ -24,7 +24,7 @@ In this project, I started with a raw dataset of quotes (in Hebrew) gathered fro
 
 _Methods used in this NLP projects: Topic modeling (unsupervised), Topic classification (supervised)._
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 ![image](https://user-images.githubusercontent.com/36603609/208291089-f72c5df3-8985-46d1-9d4a-8222aa82d420.png)
 
