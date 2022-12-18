@@ -9,7 +9,7 @@
 ## [PickUsLunch](https://github.com/NitzanBarzilay/PickUsLunch)
 #### AI assistant that helps groups of friends or co-workers find a restaurant to order from together, that best matches the group members' dining preferences.
 
-In this project, we used restaurants menus gathered via Wolt's API and created a smart system that helps groups of friends or co-workers find a single restaurant that matches everyone's needs and preferences (such as vegeterianism, koher, spiciness level etc). We examined several different algorithms (neither are ML-based), all of them provided solutions who were incredibly close to the optimal solution (that could be found by iterating over the entire 30M combinations dataset) in a fraction of the time (up to 11K times faster)!
+In this project, we used restaurants menus gathered via Wolt's API and created a smart system that helps groups of friends or co-workers find a single restaurant that matches everyone's needs and preferences (such as vegeterianism, price limits, prefered cuisines etc). We examined several different algorithms (neither are ML-based), all of them provided solutions who were incredibly close to the optimal solution (that could be found by iterating over the entire 30M combinations dataset) in a fraction of the time (up to 11K times faster)!
 
 _Methods used in this AI projects: local search, genetic algorithms._
 
