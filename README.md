@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 Data geek, working as a data scientist at PayPal<br>🌱 Currently deepening my NLP knowledge by learning Stanford's CS224n and conducting a research project in the field<br>🤝 I’m always looking for advice and mentorship on NLP and data science - and would love to hear your thoughts!<br>💬 Ask me about any of my repos!<br>
+🔭 NLP geek, research student at HUJI & data scientist at PayPal<br>🌱 Currently deepening my NLP knowledge by learning Stanford's CS224n and conducting a research project in the field<br>🤝 I’m always looking for advice and mentorship on NLP and data science - and would love to hear your thoughts!<br>💬 Ask me about any of my repos!<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitzan-barzilay) 
 
 # 💻 Tech Stack
