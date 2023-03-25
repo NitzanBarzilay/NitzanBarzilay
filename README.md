@@ -33,7 +33,7 @@ _Methods used in this NLP projects: Topic modeling (unsupervised), Topic classif
 ## [Detailed Notes Collection](https://github.com/NitzanBarzilay/Notes)
 I have collected all of the detailed notes I wrote during my studies at HebrewU as well as courses I studied independently, and published them as a part of my goal to make Data Science & NLP topics more accessible to Hebrew speakers. 
 
-This colelction contains detailed notes in Hebrew on subjects such as Math (Calulus, Linear Algebra, Probability), foundations of Computer Science (Data Structures, Algorithms, Complexity), as well as advanced Data Science (Machine Learning, NLP). 
+This colelction contains detailed notes in Hebrew on subjects such as Math (Calculus, Linear Algebra, Probability, Discrete Math), foundations of Computer Science (Data Structures, Algorithms, Complexity), as well as advanced Data Science (Machine Learning, NLP). 
 
 This includes my recent [detailed notes (90 pages) for Stanford's CS224N (NLP with DL) course](https://github.com/NitzanBarzilay/Notes/blob/main/3%20-%20Advanced%20CS%20Courses/Stanford%20CS224n%202021%20-%20DL%20for%20NLP%20-%20Nitzan%20Barzilay.pdf), that gained more than 1K likes across Israeli DS & ML communities, and featured in [MDLI newsletter](https://mailchi.mp/770d3300879f/a-new-jobs-board-6270186?e=3c4edf8ceb) as "If you need to read only one post this week, make it this one".
 ![image](https://user-images.githubusercontent.com/36603609/227706543-dea99f9b-3d56-4b2f-ad3f-3281c548cf50.png)
