@@ -29,5 +29,21 @@ _Methods used in this NLP projects: Topic modeling (unsupervised), Topic classif
 
 ![image](https://user-images.githubusercontent.com/36603609/208291089-f72c5df3-8985-46d1-9d4a-8222aa82d420.png)
 
+# 📄 Detailed Data Science & NLP Notes (Hebrew)
+## [Detailed Notes Collection](https://github.com/NitzanBarzilay/Notes)
+I have collected all of the detailed notes I wrote during my studies at HebrewU as well as courses I studied independently, and published them as a part of my goal to make Data Science & NLP topics more accessible to Hebrew speakers. 
 
+This colelction contains detailed notes in Hebrew on subjects such as Math (Calulus, Linear Algebra, Probability), foundations of Computer Science (Data Structures, Algorithms, Complexity), as well as advanced Data Science (Machine Learning, NLP). 
+
+This includes my recent [detailed notes (90 pages) for Stanford's CS224N (NLP with DL) course](https://github.com/NitzanBarzilay/Notes/blob/main/3%20-%20Advanced%20CS%20Courses/Stanford%20CS224n%202021%20-%20DL%20for%20NLP%20-%20Nitzan%20Barzilay.pdf), that gained more than 1K likes across Israeli DS & ML communities, and featured in MDLI newsletter as "If you need to read only one post this week, make it this one".
+![image](https://user-images.githubusercontent.com/36603609/227706543-dea99f9b-3d56-4b2f-ad3f-3281c548cf50.png)
+
+
+## [NLP Knowledge Hub](https://diagnostic-voyage-3af.notion.site/Nitzan-s-NLP-Knowledge-Hub-94f244a659664ef18e2b781ba0c1a81b)
+Recently I decided to share my private [Notion hub](https://diagnostic-voyage-3af.notion.site/Nitzan-s-NLP-Knowledge-Hub-94f244a659664ef18e2b781ba0c1a81b) where I organize all of my NLP knowledge (mostly in Hebrew). This hub is meant for my personal use, but since many people found it useful I decided to share it. It conatains some notes by topic (such as NLP tasks, architectures or uses) that has significant ovarlaps with my CS224N notes, as well as noted I wrote for a few dozens NLP papers I have read in the past year for my studies and my reasearch. 
+
+![image](https://user-images.githubusercontent.com/36603609/227706603-9fb7abfc-d8c2-4b3f-bad2-9868d63d1b7d.png)
+
+
+If you want to use this resource, it is highly recommended to download [Notion Enhancer](https://chrome.google.com/webstore/detail/notion-enhancer/dndcmiicjbkfcbpjincpefjkagflbbnl) and enable it's right-to-left feature, since currently Notion doed not support RTL.
 
