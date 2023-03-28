@@ -49,7 +49,7 @@ Recently I decided to share my private [Notion hub](https://diagnostic-voyage-3a
 If you want to use this resource, it is highly recommended to download [Notion Enhancer](https://chrome.google.com/webstore/detail/notion-enhancer/dndcmiicjbkfcbpjincpefjkagflbbnl) and enable it's right-to-left feature, since currently Notion doed not support RTL.
 
 ## [Notion template for scientific papars knowledge managment](https://www.notion.so/templates/scientific-papers-knowledge-hub)
-I shared my simple-but-useful system for queueing and reviewing papers I read (or plan to read). This Notion template is free to use, and also contains tips on how to personalize it to work for your needs. 
+I shared my simple-but-useful [system](https://www.notion.so/templates/scientific-papers-knowledge-hub) for queueing and reviewing papers I read (or plan to read). This Notion template is free to use, and also contains tips on how to personalize it to work for your needs. 
 ![image](https://user-images.githubusercontent.com/36603609/228277258-881a824f-9f2c-4a8a-b646-92744439d2b9.png)
 
 
