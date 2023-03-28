@@ -43,7 +43,7 @@ This includes my recent [detailed notes (90 pages) for Stanford's CS224N (NLP wi
 ## [NLP Knowledge Hub](https://nitzanbarzilay.notion.site/Nitzan-s-NLP-Knowledge-Hub-94f244a659664ef18e2b781ba0c1a81b)
 Recently I decided to share my private [Notion hub](https://nitzanbarzilay.notion.site/Nitzan-s-NLP-Knowledge-Hub-94f244a659664ef18e2b781ba0c1a81b) where I organize all of my NLP knowledge (mostly in Hebrew). This hub is meant for my personal use, but since many people found it useful I decided to share it. It conatains some notes by topic (such as NLP tasks, architectures or uses) that has significant ovarlaps with my CS224N notes, as well as noted I wrote for a few dozens NLP papers I have read in the past year for my studies and my reasearch. 
 
-![image](https://user-images.githubusercontent.com/36603609/227706603-9fb7abfc-d8c2-4b3f-bad2-9868d63d1b7d.png)
+![image](https://user-images.githubusercontent.com/36603609/228345709-860d4881-3902-458c-b96f-18d6cbbe2905.png)
 
 
 If you want to use this resource, it is highly recommended to download [Notion Enhancer](https://chrome.google.com/webstore/detail/notion-enhancer/dndcmiicjbkfcbpjincpefjkagflbbnl) and enable it's right-to-left feature, since currently Notion doed not support RTL.
