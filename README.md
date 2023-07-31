@@ -8,11 +8,12 @@
 
 # 👩‍💻 NLP / Data Science Public Projects
 
-## [Corpify](https://github.com/maayansharon10/Corpify)
+## [Corpify](https://github.com/maayansharon10/Corpify) (2023)
 #### A Language model that rephreases spoken English into workplace-appropriate language! 
 
-In this project, we introduce the novel NLP task of \emph{corpy textual style-transfer}, which involves the transformation of casual English text into a style suited for a professional workplace setting. We constructed an original parallel corpus comprising 634 sentences in casual English and their corporate-style paraphrases. This dataset was used to train and test the benchmark models in this study. 
-Our dataset, code and selected fine-tuned models are publicly available.
+In this project, we introduce the novel NLP task of _corpy textual style-transfer_, which involves the transformation of casual English text into a style suited for a professional workplace setting. We constructed an original parallel corpus comprising 634 sentences in casual English and their corporate-style paraphrases. 
+
+This project includes the dataset itself, the code for fine-tuning the style transfer models, 2 of the best performing fine-tuned models, and code for fine-tuning a style detection model for detecting corpy style in text.
 
 _Methods used in this NLP projects: Textual style transfer, text classification._
 
@@ -21,7 +22,7 @@ _Methods used in this NLP projects: Textual style transfer, text classification.
 ![image](https://github.com/NitzanBarzilay/NitzanBarzilay/assets/36603609/5fe6b651-2560-4649-9364-1544fbc0967d)
 
 
-## [Knesset Topic Classification](https://github.com/NitzanBarzilay/KnessetTopicClassification)
+## [Knesset Topic Classification](https://github.com/NitzanBarzilay/KnessetTopicClassification) (2022)
 #### An independant multi-phase NLP project for classifying parlemintary quotes in Hebrew into 8 topics. Also includes the annotated dataset. 
 
 In this project, I started with a raw dataset of quotes (in Hebrew) gathered from protocoles of the Knesset (the Israeli parliment). In the first stage of the project, I used unsupervised topic modeling methods in order to cluster quotes by topics. The topic assignment that was created during the first stage were used to prioritize qoutes for manual tagging process - quotes with the highest confidence score were sent to mannual tagging. This process created ~2,700 quotes that were manually tagged into 8 topics (in addition to a "no topic" tag). Then, in the second phase of this project, I trained a supervised classifier to predict quotes topics.
@@ -33,7 +34,7 @@ _Methods used in this NLP projects: Topic modeling (unsupervised), Topic classif
 ![image](https://user-images.githubusercontent.com/36603609/208291089-f72c5df3-8985-46d1-9d4a-8222aa82d420.png)
 
 
-## [PickUsLunch](https://github.com/NitzanBarzilay/PickUsLunch)
+## [PickUsLunch](https://github.com/NitzanBarzilay/PickUsLunch) (2022)
 #### AI assistant that helps groups of friends or co-workers find a restaurant to order from together, that best matches the group members' dining preferences.
 
 In this project, we used restaurants menus gathered via Wolt's API and created a smart system that helps groups of friends or co-workers find a single restaurant that matches everyone's needs and preferences (such as vegeterianism, price limits, prefered cuisines etc). We examined several different algorithms (neither are ML-based), all of them provided solutions who were incredibly close to the optimal solution (that could be found by iterating over the entire 30M combinations dataset) in a fraction of the time (up to 11K times faster)!
