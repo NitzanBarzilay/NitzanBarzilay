@@ -8,6 +8,19 @@
 
 # 👩‍💻 NLP / Data Science Public Projects
 
+## [Corpify](https://github.com/maayansharon10/Corpify)
+#### A Language model that rephreases spoken English into workplace-appropriate language! 
+
+In this project, we introduce the novel NLP task of \emph{corpy textual style-transfer}, which involves the transformation of casual English text into a style suited for a professional workplace setting. We constructed an original parallel corpus comprising 634 sentences in casual English and their corporate-style paraphrases. This dataset was used to train and test the benchmark models in this study. 
+Our dataset, code and selected fine-tuned models are publicly available.
+
+_Methods used in this NLP projects: Textual style transfer, text classification._
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+
+![image](https://github.com/NitzanBarzilay/NitzanBarzilay/assets/36603609/5fe6b651-2560-4649-9364-1544fbc0967d)
+
+
 ## [Knesset Topic Classification](https://github.com/NitzanBarzilay/KnessetTopicClassification)
 #### An independant multi-phase NLP project for classifying parlemintary quotes in Hebrew into 8 topics. Also includes the annotated dataset. 
 
@@ -15,7 +28,7 @@ In this project, I started with a raw dataset of quotes (in Hebrew) gathered fro
 
 _Methods used in this NLP projects: Topic modeling (unsupervised), Topic classification (supervised)._
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
 ![image](https://user-images.githubusercontent.com/36603609/208291089-f72c5df3-8985-46d1-9d4a-8222aa82d420.png)
 
@@ -27,7 +40,7 @@ In this project, we used restaurants menus gathered via Wolt's API and created a
 
 _Methods used in this AI projects: local search, genetic algorithms._
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ![image](https://user-images.githubusercontent.com/36603609/208291119-0ad15f9c-fed5-4e6c-b20a-92c59f316ef4.png)
 
