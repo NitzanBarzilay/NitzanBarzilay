@@ -1,10 +1,28 @@
 # 💫 About Me
-🔭 NLP geek, Computer Science MSc candidate researching NLP (multi-document summarization) at HebrewU & Data Scientist at PayPal<br>💬 Feel free to ask me about any of my repos, I love getting messages about my work! 
+🔭 Computer Science MSc candidate researching NLP @HUJI ([publications](https://www.semanticscholar.org/author/Nitzan-Barzilay/2305813534)), former Data Scientist @PayPal & Research Assistant @AI2
+
+💬 Feel free to ask me about any of my repos, I love getting messages about my work! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitzan-barzilay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nitzan_Barzilay)   
 ☕ If my code or my notes helped you, you can buy me a coffee if you'd like [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sikumim) 
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+# 📄 Detailed NLP Notes and Resources (Hebrew)
+## [Detailed Notes Collection](https://github.com/NitzanBarzilay/Notes)
+I have collected all of the detailed notes I wrote during my studies at HebrewU as well as courses I studied independently, and published them as a part of my goal to make Data Science & NLP topics more accessible to Hebrew speakers. 
+
+This colelction contains detailed notes in Hebrew on subjects such as Math (Calculus, Linear Algebra, Probability, Discrete Math), foundations of Computer Science (Data Structures, Algorithms, Complexity), as well as advanced Data Science (Machine Learning, NLP). 
+
+This includes my recent [detailed notes (90 pages) for Stanford's CS224N (NLP with DL) course](https://github.com/NitzanBarzilay/Notes/blob/main/3%20-%20Advanced%20CS%20Courses/Stanford%20CS224n%202021%20-%20DL%20for%20NLP%20-%20Nitzan%20Barzilay.pdf), that gained more than 1K likes across Israeli DS & ML communities.
+
+
+## [NLP Knowledge Hub](https://nitzanbarzilay.notion.site/Nitzan-s-NLP-Knowledge-Hub-94f244a659664ef18e2b781ba0c1a81b)
+Recently I decided to share my private [Notion hub](https://nitzanbarzilaynlp.simple.ink/) where I organize all of my NLP knowledge (mostly in Hebrew). This hub is meant for my personal use, but since many people found it useful I decided to share it. It conatains some notes by topic (such as NLP tasks, architectures or uses) that has significant ovarlaps with my CS224N notes, as well as noted I wrote for a few dozens NLP papers I have read in the past year for my studies and my reasearch. 
+
+![image](https://github.com/NitzanBarzilay/NitzanBarzilay/assets/36603609/0039645a-2eb8-4a71-a238-bdaebaf12332)
+
+
+## [Notion template for scientific papars knowledge managment](https://www.notion.so/templates/scientific-papers-knowledge-hub)
+I shared my simple-but-useful [system](https://www.notion.so/templates/scientific-papers-knowledge-hub) for queueing and reviewing papers I read (or plan to read). This Notion template is free to use, and also contains tips on how to personalize it to work for your needs. 
+![image](https://user-images.githubusercontent.com/36603609/228277258-881a824f-9f2c-4a8a-b646-92744439d2b9.png)
 
 # 👩‍💻 NLP / Data Science Public Projects
 
@@ -45,25 +63,5 @@ _Methods used in this AI projects: local search, genetic algorithms._
 
 ![image](https://user-images.githubusercontent.com/36603609/208291119-0ad15f9c-fed5-4e6c-b20a-92c59f316ef4.png)
 
-# 📄 Detailed NLP Notes and Resources (Hebrew)
-## [Detailed Notes Collection](https://github.com/NitzanBarzilay/Notes)
-I have collected all of the detailed notes I wrote during my studies at HebrewU as well as courses I studied independently, and published them as a part of my goal to make Data Science & NLP topics more accessible to Hebrew speakers. 
-
-This colelction contains detailed notes in Hebrew on subjects such as Math (Calculus, Linear Algebra, Probability, Discrete Math), foundations of Computer Science (Data Structures, Algorithms, Complexity), as well as advanced Data Science (Machine Learning, NLP). 
-
-This includes my recent [detailed notes (90 pages) for Stanford's CS224N (NLP with DL) course](https://github.com/NitzanBarzilay/Notes/blob/main/3%20-%20Advanced%20CS%20Courses/Stanford%20CS224n%202021%20-%20DL%20for%20NLP%20-%20Nitzan%20Barzilay.pdf), that gained more than 1K likes across Israeli DS & ML communities, and featured in [MDLI newsletter](https://mailchi.mp/770d3300879f/a-new-jobs-board-6270186?e=3c4edf8ceb) as "If you need to read only one post this week, make it this one".
-
-
-## [NLP Knowledge Hub](https://nitzanbarzilay.notion.site/Nitzan-s-NLP-Knowledge-Hub-94f244a659664ef18e2b781ba0c1a81b)
-Recently I decided to share my private [Notion hub](https://nitzanbarzilay.notion.site/Nitzan-s-NLP-Knowledge-Hub-94f244a659664ef18e2b781ba0c1a81b) where I organize all of my NLP knowledge (mostly in Hebrew). This hub is meant for my personal use, but since many people found it useful I decided to share it. It conatains some notes by topic (such as NLP tasks, architectures or uses) that has significant ovarlaps with my CS224N notes, as well as noted I wrote for a few dozens NLP papers I have read in the past year for my studies and my reasearch. 
-
-![image](https://github.com/NitzanBarzilay/NitzanBarzilay/assets/36603609/0039645a-2eb8-4a71-a238-bdaebaf12332)
-
-
-If you want to use this resource, it is highly recommended to download [Notion Enhancer](https://chrome.google.com/webstore/detail/notion-enhancer/dndcmiicjbkfcbpjincpefjkagflbbnl) and enable it's right-to-left feature, since currently Notion doed not support RTL.
-
-## [Notion template for scientific papars knowledge managment](https://www.notion.so/templates/scientific-papers-knowledge-hub)
-I shared my simple-but-useful [system](https://www.notion.so/templates/scientific-papers-knowledge-hub) for queueing and reviewing papers I read (or plan to read). This Notion template is free to use, and also contains tips on how to personalize it to work for your needs. 
-![image](https://user-images.githubusercontent.com/36603609/228277258-881a824f-9f2c-4a8a-b646-92744439d2b9.png)
 
 
